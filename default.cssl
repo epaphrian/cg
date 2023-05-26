@@ -466,7 +466,7 @@ overflow: hidden;
     height: 100%;
     width: fit-content;
     font-size: 20px;
-    position: absolute;
+    position: relative;
 }
 
 .borderdiv {
