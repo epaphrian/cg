@@ -455,14 +455,22 @@ overflow: hidden;
 }
 
 .user {
-    top: 28%;
-    left: 75%;
-    font-size: 20px;
-    display: flexbox;
+    bottom: -38%;
+        right: 2%;
+    margin-left: auto;
+    align-self: center;
+    position: relative;
     text-decoration: none;
     padding: 10px;
     text-align: center;
+    cursor: pointer;
     color: white;
+    white-space: nowrap;
+    height: fit-content;
+    width: fit-content;
+    display: flexbox;
+    text-decoration: none;
+    padding: 10px;
     height: 100%;
     width: fit-content;
     font-size: 20px;
